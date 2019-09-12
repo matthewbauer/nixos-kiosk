@@ -5,4 +5,20 @@ Pi systems. The example
 
 ** Building
 
+*** OVA
 
+#+BEGIN_SRC sh
+$ nix build -f release.nix ova
+#+END_SRC
+
+*** ISO
+
+#+BEGIN_SRC sh
+$ nix build -f release.nix iso
+#+END_SRC
+
+*** SD Image
+
+#+BEGIN_SRC sh
+$ nix build -f release.nix sd
+#+END_SRC
