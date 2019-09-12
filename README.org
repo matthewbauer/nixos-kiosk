@@ -1,0 +1,8 @@
+* NixOS Kiosk
+
+An example of making a Kiosk NixOS configuration. Useful for Raspberry
+Pi systems. The example 
+
+** Building
+
+
